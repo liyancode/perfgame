@@ -1,0 +1,1 @@
+init.sh file is used for init restjmeter_db container
